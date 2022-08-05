@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F08FA15D-7ABF-48C1-911F-805A23FB34AC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Aurora_sees_fire</RootNamespace>
+    <AssemblyName>Aurora sees fire</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database1DataSet.cs">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet1.cs">
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Database1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MeniuJoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniuJoc.Designer.cs">
+      <DependentUpon>MeniuJoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instructiuni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Instructiuni.Designer.cs">
+      <DependentUpon>Instructiuni.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Despre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Despre.Designer.cs">
+      <DependentUpon>Despre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutentificareUtilizatori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutentificareUtilizatori.Designer.cs">
+      <DependentUpon>AutentificareUtilizatori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inregistrare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inregistrare.Designer.cs">
+      <DependentUpon>Inregistrare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutentificareAdministratori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutentificareAdministratori.Designer.cs">
+      <DependentUpon>AutentificareAdministratori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanouControlUtilizatori.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanouControlUtilizatori.Designer.cs">
+      <DependentUpon>PanouControlUtilizatori.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Joc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Joc.Designer.cs">
+      <DependentUpon>Joc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secventa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Secventa.Designer.cs">
+      <DependentUpon>Secventa.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="MeniuJoc.resx">
+      <DependentUpon>MeniuJoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Instructiuni.resx">
+      <DependentUpon>Instructiuni.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Despre.resx">
+      <DependentUpon>Despre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutentificareUtilizatori.resx">
+      <DependentUpon>AutentificareUtilizatori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inregistrare.resx">
+      <DependentUpon>Inregistrare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutentificareAdministratori.resx">
+      <DependentUpon>AutentificareAdministratori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanouControlUtilizatori.resx">
+      <DependentUpon>PanouControlUtilizatori.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Joc.resx">
+      <DependentUpon>Joc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Secventa.resx">
+      <DependentUpon>Secventa.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Database1DataSet.xsc">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet.xss">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet1.xsc">
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet1.xss">
+      <DependentUpon>Database1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\buton-meniu-dreapta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\buton-meniu-stanga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\buton-play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\glont.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\imagine-de-fundal-meniu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\label-titlu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\player.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\glont-materie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\background-de-joc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\background-meniu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\ddfoxwz-29ca0327-088d-4063-bbcc-1714a78c5f89.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\glont-materie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\Webp.net-resizeimage %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="MediaPlayer">
+      <Guid>{22D6F304-B0F6-11D0-94AB-0080C74C7E95}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\buton-meniu-stanga-jos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\inamic.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\groupbox-iesire-joc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\sunet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\nusunet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\banner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\sageata-stanga.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\space.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\sageata-dreapta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\esc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\Aurora.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\fundal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\autentificare-inregistrare.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\asserts\doar-inregistrare.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

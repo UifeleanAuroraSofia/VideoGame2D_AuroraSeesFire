@@ -1,0 +1,177 @@
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora sees fire.csprojAssemblyReference.cache
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.Meniu.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.Despre.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.Autentificare.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.PanouControl.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Joc.Joc.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora's Questions\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\bin\Debug\Database1.mdf
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\bin\Debug\Database1_log.ldf
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\bin\Debug\Aurora sees fire.exe.config
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\bin\Debug\Aurora sees fire.exe
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\bin\Debug\Aurora sees fire.pdb
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.Meniu.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.Despre.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.Autentificare.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.PanouControl.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Joc.Joc.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora sees fire.exe
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora sees fire.pdb
+C:\Users\Aurora\Desktop\Proiect atestat finalizat - Copy (2)\Aurora sees fire\obj\Debug\Aurora sees fire.csprojAssemblyReference.cache
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Database1.mdf
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Database1_log.ldf
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Aurora sees fire.exe.config
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Aurora sees fire.exe
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Aurora sees fire.pdb
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csprojAssemblyReference.cache
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Meniu.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Despre.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Autentificare.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.PanouControl.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Joc.Joc.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.exe
+C:\Users\Aurora\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.pdb
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Database1.mdf
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Database1_log.ldf
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Aurora sees fire.exe.config
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Aurora sees fire.exe
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\bin\Debug\Aurora sees fire.pdb
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csprojAssemblyReference.cache
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Interop.WMPLib.dll
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Despre.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Autentificare.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.PanouControl.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Joc.Joc.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.exe
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora sees fire.pdb
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.MeniuJoc.resources
+C:\Users\Aurora\OneDrive\Desktop\Proiect atestat - Uifelean Aurora Sofia\Aurora sees fire\obj\Debug\Aurora_sees_fire.Secventa.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1.mdf
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1_log.ldf
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe.config
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.pdb
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csprojAssemblyReference.cache
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.MediaPlayer.dll
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.WMPLib.dll
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.MeniuJoc.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Despre.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Autentificare.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.PanouControl.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Joc.Joc.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Secventa.resources
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.exe
+G:\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.pdb
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1.mdf
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1_log.ldf
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe.config
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.pdb
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.AssemblyReference.cache
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.SuggestedBindingRedirects.cache
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.MediaPlayer.dll
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.WMPLib.dll
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.MeniuJoc.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Despre.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Autentificare.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.PanouControl.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Joc.Joc.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Secventa.resources
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.exe
+H:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.pdb
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1.mdf
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1_log.ldf
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe.config
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.pdb
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.AssemblyReference.cache
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.SuggestedBindingRedirects.cache
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.MediaPlayer.dll
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.WMPLib.dll
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.MeniuJoc.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Despre.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Autentificare.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.PanouControl.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Joc.Joc.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Secventa.resources
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.exe
+E:\Programe C++ și C#\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.pdb
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1.mdf
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Database1_log.ldf
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe.config
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.exe
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\bin\Debug\Aurora sees fire.pdb
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.AssemblyReference.cache
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.SuggestedBindingRedirects.cache
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.MediaPlayer.dll
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Interop.WMPLib.dll
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.ResolveComReference.cache
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.MeniuJoc.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Instructiuni.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Despre.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Autentificare.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Inregistrare.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.AutentificareAdmin.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.PanouControl.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Joc.Joc.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Properties.Resources.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora_sees_fire.Secventa.resources
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.GenerateResource.cache
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.exe
+E:\Programming\C#\Proiect atestat - Uifelean Aurora Sofia GATA\Aurora sees fire\obj\Debug\Aurora sees fire.pdb
