@@ -1,13 +1,39 @@
-# README File
-<!DOCTYPE html>
-<html>
-<body>
+# Aurora Sees Fire - A Shoot 'Em Up Game  
 
-<p>The game is one of the shoot 'em up type. Shoot 'em up, or STG (the common Japanese abbreviation for "shooting games"), is a game in which the protagonist shoots a large number of enemies while avoiding their attacks. The player must rely primarily on reaction times to score as many points as possible, or to win the game.</p>
+<h3>Project Overview</h3>  
+<p><b>Aurora Sees Fire</b> is a 2D shoot 'em up game developed in C#. The game offers an engaging experience where players must protect their positive energy while facing waves of colorful comets. The project also features a user management system, allowing players and administrators to log in and manage accounts.</p>  
 
-<p>Aurora sees fire is about princess Aurora who travels through space and encounters various comets of different colors that want to steal her positive energy. The player must help Aurora to protect her positive energy and defeat the comets.</p>
+<h3>What is a Shoot 'Em Up Game?</h3>  
+<p>Shoot 'em up games, or STG (the Japanese abbreviation for "shooting games"), are action-packed games where players shoot a large number of enemies while avoiding incoming attacks. Success depends on quick reactions, aiming to score the highest points or complete the game.</p>  
 
-<p>The application consists of the game itself and the user database. Users can log in if they have an account, and if they don't they can create a new account. Administrators also have a space where they can log in. Administrators have access to the user database and can modify data from it, such as: adding users, deleting users, changing a user's password or role, etc.</p>
+<h3>Game Concept</h3>  
+<p>The game revolves around <b>Princess Aurora</b>, who travels through space and encounters comets of different colors trying to steal her positive energy. Players must help Aurora protect her energy and defeat the comets to survive.</p>  
 
-</body>
-</html>
+<h3>Features</h3>  
+<h4>Gameplay</h4>  
+<ul>  
+    <li>Fast-paced action where players rely on quick reflexes to avoid attacks and shoot enemies.</li>  
+    <li>Colorful comets with unique behaviors and challenges.</li>  
+    <li>A scoring system to track progress and encourage competition.</li>  
+</ul>  
+
+<h4>User Management</h4>  
+<ul>  
+    <li>Users can log in using their accounts or create new ones.</li>  
+    <li>An administrator interface is available with the following features:  
+        <ul>  
+            <li>Access the user database.</li>  
+            <li>Add new users.</li>  
+            <li>Delete users.</li>  
+            <li>Update user information, such as passwords or roles.</li>  
+        </ul>  
+    </li>  
+</ul>  
+
+<h3>Technical Details</h3>  
+<ul>  
+    <li><b>Language:</b> C#</li>  
+    <li><b>Framework:</b> .NET Framework </li>  
+    <li><b>Platform:</b> Windows </li>  
+    <li><b>Database:</b> Used to store user accounts and administrative data.</li>  
+</ul>  
